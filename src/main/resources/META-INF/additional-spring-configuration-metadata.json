@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.driverClass",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.driverClass."
+    },
+    {
+      "name": "spring.jpa.flyway.baselineOnMigrate",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.flyway.baselineOnMigrate."
+    },
+    {
+      "name": "spring.jwt.sessionTime",
+      "type": "java.lang.String",
+      "description": "Description for spring.jwt.sessionTime."
+    },
+    {
+      "name": "spring.sql.init.mode",
+      "type": "java.lang.String",
+      "description": "Description for spring.sql.init.mode."
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    }
+  ] }

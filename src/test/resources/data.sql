@@ -1,0 +1,1 @@
+insert into public.my_user(login, password) values('user', 'password');
